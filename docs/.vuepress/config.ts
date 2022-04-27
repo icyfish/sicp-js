@@ -26,6 +26,16 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: "/ch00/foreword-sicp-1984.md"
           }
         ]
+      },
+      {
+        text: "1. 利用函数构造抽象",
+        link: "/ch01/0.abstraction-with-functions.md",
+        children: [
+          {
+            text: "1.1 编程的元素",
+            link: "/ch01/1.elements-of-programming.md"
+          }
+        ]
       }
     ]
   },
