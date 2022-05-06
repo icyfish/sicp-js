@@ -23,7 +23,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         children: [
           {
             text: "Foreword to SICP, 1984",
-            link: "/ch00/foreword-sicp-1984.md"
+            link: "/ch00/foreward-sicp-1984.md"
           }
         ]
       },
