@@ -29,11 +29,17 @@ export default defineUserConfig<DefaultThemeOptions>({
       },
       {
         text: "1. 利用函数构造抽象",
-        link: "/ch01/0.abstraction-with-functions.md",
+        link: "/ch01/1.abstraction-with-functions.md",
         children: [
           {
             text: "1.1 编程的元素",
-            link: "/ch01/1.elements-of-programming.md"
+            link: "/ch01/1.1.elements-of-programming.md",
+            children: [
+              {
+                text: "1.1.1 表达式",
+                link: "/ch01/1.1.1.expressions.md"
+              }
+            ]
           }
         ]
       }
