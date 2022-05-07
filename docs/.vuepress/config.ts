@@ -19,11 +19,11 @@ export default defineUserConfig<DefaultThemeOptions>({
     sidebar: [
       {
         text: "0. 前言",
-        link: "/ch00/forward.md",
+        link: "/ch00/foreword.md",
         children: [
           {
             text: "Foreword to SICP, 1984",
-            link: "/ch00/foreward-sicp-1984.md"
+            link: "/ch00/foreword-sicp-1984.md"
           }
         ]
       },
