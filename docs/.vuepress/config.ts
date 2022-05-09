@@ -38,6 +38,10 @@ export default defineUserConfig<DefaultThemeOptions>({
               {
                 text: "1.1.1 表达式",
                 link: "/ch01/1.1.1.expressions.md"
+              },
+              {
+                text: "1.1.2 命名与环境",
+                link: "/ch01/1.1.2.naming-and-environment.md"
               }
             ]
           }
