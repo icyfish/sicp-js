@@ -42,6 +42,14 @@ export default defineUserConfig<DefaultThemeOptions>({
               {
                 text: "1.1.2 命名与环境",
                 link: "/ch01/1.1.2.naming-and-environment.md"
+              },
+              {
+                text: "1.1.3 计算运算符组合",
+                link: "/ch01/1.1.3.evaluating-operator-combinations.md"
+              },
+              {
+                text: "1.1.4 复合函数",
+                link: "/ch01/1.1.4.compound-functions"
               }
             ]
           }
