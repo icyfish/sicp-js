@@ -55,6 +55,10 @@ export default defineUserConfig<DefaultThemeOptions>({
                 text: "1.1.5 函数调用的替代模型",
                 link: "/ch01/1.1.5.substitution-model"
               },
+              {
+                text: '1.1.6 条件表达式和断言',
+                link: '/ch01/1.1.6.conditional-expressions-predicates'
+              }
               
             ]
           }
