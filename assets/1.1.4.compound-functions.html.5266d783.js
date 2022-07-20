@@ -1,0 +1,1 @@
+const t={key:"v-25933c9c",path:"/ch01/1.1.4.compound-functions.html",title:"1.1.4 \u590D\u5408\u51FD\u6570",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652868584e3,contributors:[{name:"icyfish",email:"icyyfish@gmail.com",commits:1}]},filePathRelative:"ch01/1.1.4.compound-functions.md"};export{t as data};

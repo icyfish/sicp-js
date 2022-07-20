@@ -1,0 +1,1 @@
+const e={key:"v-7282752c",path:"/ch01/1.1.elements-of-programming.html",title:"1.1 \u7F16\u7A0B\u7684\u5143\u7D20",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651924199e3,contributors:[{name:"icyfish",email:"icyyfish@gmail.com",commits:1}]},filePathRelative:"ch01/1.1.elements-of-programming.md"};export{e as data};

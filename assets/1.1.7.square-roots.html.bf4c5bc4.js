@@ -1,0 +1,1 @@
+const t={key:"v-6491fab7",path:"/ch01/1.1.7.square-roots.html",title:"1.1.7 \u793A\u4F8B: \u725B\u987F\u6CD5\u5B9E\u73B0\u5E73\u65B9\u6839",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658288947e3,contributors:[{name:"icyfish",email:"icyyfish@gmail.com",commits:1}]},filePathRelative:"ch01/1.1.7.square-roots.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-8d6121ca",path:"/ch01/1.1.2.naming-and-environment.html",title:"1.1.2 \u547D\u540D\u4E0E\u73AF\u5883",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652058443e3,contributors:[{name:"icyfish",email:"icyyfish@gmail.com",commits:1}]},filePathRelative:"ch01/1.1.2.naming-and-environment.md"};export{e as data};

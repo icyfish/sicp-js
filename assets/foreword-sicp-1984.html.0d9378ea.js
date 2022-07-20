@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c,d as s}from"./app.07e6cbcb.js";const r={},a={id:"\u524D\u8A00-sicp",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#\u524D\u8A00-sicp","aria-hidden":"true"},"#",-1),d=s(" \u524D\u8A00 SICP"),i=[_,d];function n(h,f){return o(),t("h2",a,i)}var p=e(r,[["render",n],["__file","foreword-sicp-1984.html.vue"]]);export{p as default};

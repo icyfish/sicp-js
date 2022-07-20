@@ -1,0 +1,1 @@
+const e={key:"v-5374e036",path:"/ch01/1.1.1.expressions.html",title:"1.1.1 \u8868\u8FBE\u5F0F",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652058443e3,contributors:[{name:"icyfish",email:"icyyfish@gmail.com",commits:2}]},filePathRelative:"ch01/1.1.1.expressions.md"};export{e as data};
