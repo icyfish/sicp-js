@@ -58,6 +58,10 @@ export default defineUserConfig<DefaultThemeOptions>({
               {
                 text: '1.1.6 条件表达式和断言',
                 link: '/ch01/1.1.6.conditional-expressions-predicates'
+              },
+              {
+                text: '1.1.7 示例: 牛顿法实现平方根',
+                link: '/ch01/1.1.7.square-roots'
               }
               
             ]
